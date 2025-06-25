@@ -1,0 +1,20 @@
+.Card {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    width: 400px;
+    height: 280px;
+
+    background-color: #FE7743;
+    color: black;
+    font-size: 32px;
+    box-shadow: 8.5px 8.5px #efeeea;
+
+    margin: 2rem auto;
+    text-align: center;
+}
+
+  

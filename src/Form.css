@@ -1,0 +1,16 @@
+.submitButton {
+    background-color: #FE7743;
+    border-radius: 10px;
+}
+
+.submitButton:hover {
+    background-color: #e5541c;
+    box-shadow: 0 5px 15px rgba(239, 238, 234, .4);
+}
+
+.submitButton:active {
+    background-color: #e5541c;
+    box-shadow: 0 5px 15px rgba(209, 208, 204, 0.276);
+    transform: translateY(4px);
+
+}
